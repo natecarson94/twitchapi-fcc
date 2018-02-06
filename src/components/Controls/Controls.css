@@ -1,0 +1,17 @@
+.controls{
+
+}
+
+.controls button{
+    margin:10px 0px;
+    height: 30px;
+    width: 70px;
+    background: linear-gradient(#ffffc6,#ff8400);
+    border:none;
+}
+
+.controls button:hover{
+    cursor: pointer;
+    border-bottom: 3px solid #ff8400;
+
+}

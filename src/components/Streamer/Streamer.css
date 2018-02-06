@@ -1,0 +1,28 @@
+.Streamer{
+    border: 1px solid black;
+    margin: 2px;
+    width: 60%;
+    height:70px;
+    background-color:#ecb290
+}
+
+.Streamer:hover{
+    box-shadow: 1px 1px 10px black;
+}
+
+.Streamer div{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    height:30px;
+}
+.Streamer * {
+    padding: 5px;
+    margin: 10px;
+    width: 90%;
+}
+
+.Streamer img{
+    height: 40px;
+    width: 40px;
+}
